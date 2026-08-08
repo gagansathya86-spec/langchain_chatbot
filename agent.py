@@ -4,7 +4,8 @@ from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
 # Configuration
-DIRECTORY = r"c:\Users\gagan\Downloads\langchain"
+# Use dynamic path so it works both locally on Windows and remotely on Render (Linux)
+DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 MODEL = "openrouter/free"
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
 
