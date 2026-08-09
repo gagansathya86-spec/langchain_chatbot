@@ -1,0 +1,170 @@
+### Page 1 Timetable
+
+# Class Timetable
+
+**W.e.f.:** 20-07-2026  
+**Semester & Section:** VII-A  
+**Class Teacher:** Mrs. Rashmi D M  
+**Room #:** A201  
+
+| DAY / TIME    | 09:00 - 10:00 AM         | 10:00 - 11:00 AM               | 11:15 AM - 12:15 PM | 12:15 - 01:15 PM | 02:00 - 02:55 PM                | 02:55 - 03:50 PM          | 03:50 - 04:45 PM                |
+|----------------|---------------------------|---------------------------------|----------------------|-------------------|---------------------------------|---------------------------|---------------------------------|
+| **MON**        | BCS703                    | BCS714A / BCS714D              | BCS702               | BEE755B           | BCS786 - Major Project Phase-II | A1-BCS701(Lab2)           | BCS786 - Major Project Phase-II |
+| **TUE**        | BCS702                    | BCS701                          | BEE755B              | BCS703            |                                 |                           |                                 |
+| **WED**        | BCS701                    | BCS702                          | BCS703               | BCS714A / BCS714D |                                 |                           |                                 |
+| **THU**        | BCS703                    | BCS701                          | BCS714A / BCS714D    | BEE755B           |                                 |                           |                                 |
+| **FRI**        | BCS786 - Major Project Phase-II | BCS786 - Major Project Phase-II |                      |                   |                                 |                           |                                 |
+| **SAT**        | BCS786 - Major Project Phase-II | BCS786 - Major Project Phase-II |                      |                   |                                 |                           |                                 |
+
+## Course Details
+
+| COURSE CODE       | COURSE TITLE                                       | FACULTY NAME          |
+|-------------------|----------------------------------------------------|-----------------------|
+| BCS701            | Internet of Things                                 | Mrs. Rashmi D      |
+| BCS702            | Parallel Computing                                 | Mrs. Hemalatha M    |
+| BCS703            | Cryptography & Network Security                    | Mrs. Shambahi       |
+| BCS714A           | Deep Learning                                      | Dr. Mohamed Saquib  |
+| BCS714D           | Big Data Analytics                                 | Mr. Shinchana K P / Dr. Usha Kiran / Dr. Asha K H |
+| BEE755B           | Energy Conservation and Audit                      | Suresh Kumar        |
+| BCS701 Lab        | Internet of Things Lab                             | Rashmi, Champa, Shambavi |
+| BCS702 Lab        | Parallel Computing Lab                             | Hemalatha, Sindhu, Seebha |
+
+---
+
+### Page 2 Timetable
+
+# College Timetable
+
+## Section: VII-B
+### Class Teacher: Mrs. Champa C H
+### Room #: A232
+
+### Weekly Schedule
+
+| Day   | Time        | Section       | Subject                         |
+|-------|-------------|---------------|---------------------------------|
+| MON   | 09:00-10:00 AM | BCS703       | Cryptography                    |
+|       | 10:00-11:00 AM | BCS714A/D | Elective                        |
+|       | 11:15 AM-12:15 PM | BCS702      | Parallel Computing              |
+|       | 12:15-01:15 PM | BEE755B      | Energy Cons.                    |
+|       | 02:00-03:50 PM | B1-BCS701(Lab)| IoT Lab                         |
+| TUE   | 09:00-10:00 AM | BCS702       | Parallel Computing              |
+|       | 10:00-11:00 AM | BCS703       | Cryptography                    |
+|       | 11:15 AM-12:15 PM | BEE755B      | Energy Cons.                    |
+|       | 12:15-01:15 PM | BCS701       | IoT                             |
+| WED   | 09:00-10:00 AM | BCS701       | IoT                             |
+|       | 10:00-11:00 AM | BCS703       | Cryptography                    |
+|       | 11:15 AM-12:15 PM | BCS702      | Parallel Computing              |
+|       | 12:15-01:15 PM | BCS714A/D | Elective                        |
+| THU   | 09:00-10:00 AM | BCS703       | Cryptography                    |
+|       | 10:00-11:00 AM | BCS701       | IoT                             |
+|       | 11:15 AM-12:15 PM | BCS714A/D | Elective                        |
+|       | 12:15-01:15 PM | BEE755B      | Energy Cons.                    |
+| FRI   | 09:00-12:15 PM | BCS786       | Major Project Phase-II          |
+| SAT   | 09:00-12:15 PM | BCS786       | Major Project Phase-II          |
+
+### Course Details
+
+| Course Code | Course Title                       | Faculty Name               |
+|-------------|-------------------------------------|----------------------------|
+| BCS701      | Internet of Things                 | Mrs. Ranjeeth             |
+| BCS702      | Parallel Computing                 | Mr. Tejas K M             |
+| BCS703      | Cryptography & Network             | Mrs. Champa C H           |
+| BCS714A     | Deep Learning                      | Dr. Mohamed Saquib        |
+| BCS714D     | Big Data Analytics                 | Mr. Shinchana K P / Dr. Usha Kiran / Dr. Asha K H |
+| BEE755B     | Energy Conservation and Audit      | Dineesh Babu              |
+| BCS701 Lab  | Internet of Things Lab             | Ranjeeth, Shambavi, Geethanjali |
+| BCS702 Lab  | Parallel Computing Lab             | Tejas, Asha               |
+
+---
+
+### Page 3 Timetable
+
+# Class Timetable
+
+**Class Section: VII-C**  
+**Class Teacher: Mrs. Geethanjali S G**  
+**Room: A231**
+
+| DAY      | TIME         | Subject Code | 
+|----------|--------------|---------------|
+| **MON**  | 09:00 - 10:00 AM | BCS701       | 
+|          | 10:00 - 11:00 AM | BCS714A / D  | 
+|          | 11:15 AM - 12:15 PM | BCS703       | 
+|          | 12:15 - 01:15 PM | BEE755B      | 
+|          | 02:00 - 04:45 PM | C1-BCS701(Lab) / C2-BCS702(Lab) | 
+| **TUE**  | 09:00 - 10:00 AM | BCS703       | 
+|          | 10:00 - 11:00 AM | BCS701       | 
+|          | 11:15 AM - 12:15 PM | BEE755B      | 
+|          | 12:15 - 01:15 PM | BCS702       | 
+| **WED**  | 09:00 - 10:00 AM | BCS702       | 
+|          | 10:00 - 11:00 AM | BCS703       | 
+|          | 11:15 AM - 12:15 PM | BCS701       | 
+|          | 12:15 - 01:15 PM | BCS714A / D  | 
+| **THU**  | 09:00 - 10:00 AM | BCS703       | 
+|          | 10:00 - 11:00 AM | BCS702       | 
+|          | 11:15 AM - 12:15 PM | BCS714A / D  | 
+|          | 12:15 - 01:15 PM | BEE755B      | 
+| **FRI**  | 09:00 - 12:15 PM | BCS786 (Project) | 
+| **SAT**  | 09:00 - 12:15 PM | BCS786 (Project) | 
+
+### Course Details
+
+| Course Code | Course Title                       | Faculty Name               |
+|-------------|-------------------------------------|----------------------------|
+| BCS701      | Internet of Things                 | Geethanjali               |
+| BCS702      | Parallel Computing                 | Ms. Sheeba                |
+| BCS703      | Cryptography & Network             | Kanakraju                 |
+| BCS714A     | Deep Learning                      | Dr. Mohamed Saquib        |
+| BCS714D     | Big Data Analytics                 | Mr. Shinchana K P / Dr. Usha Kiran / Dr. Asha K H |
+| BEE755B     | Energy Conservation and Audit      | Mr. Rafi Ahmed            |
+| BCS701 Lab  | Internet of Things Lab             | Geethanjali, Champa, Rashmi |
+| BCS702 Lab  | Parallel Computing Lab             | Sheeba, Hemalatha, Sindhu |
+
+---
+
+### Page 4 Timetable
+
+# Class Time Table
+
+**SEM & Section: VII-D**  
+**Class Teacher: Mrs. Komala D**  
+**Room #: A230**  
+
+## Timetable
+
+| DAY  | TIME                  | SUBJECT CODE                      | 
+|------|-----------------------|-----------------------------------|
+| MON  | 09:00 - 10:00 AM      | BCS701                            | 
+|      | 10:00 - 11:00 AM      | BCS714A / D                       | 
+|      | 11:15 AM - 12:15 PM   | BCS703                            | 
+|      | 12:15 - 01:15 PM      | BCS702                            | 
+|      | 02:00 - 04:45 PM      | BCS786 - Major Project Phase-II   | 
+| TUE  | 09:00 - 10:00 AM      | BCS703                            | 
+|      | 10:00 - 11:00 AM      | BCS701                            | 
+|      | 11:15 AM - 12:15 PM   | BEE755B                           | 
+|      | 12:15 - 01:15 PM      | BCS702                            | 
+|      | 02:00 - 04:45 PM      | D1-BCS701(Lab) / D2-BCS702(Lab)   | 
+| WED  | 09:00 - 10:00 AM      | BCS702                            | 
+|      | 10:00 - 11:00 AM      | BCS703                            | 
+|      | 11:15 AM - 12:15 PM   | BCS701                            | 
+|      | 12:15 - 01:15 PM      | BCS714A / D                       | 
+| THU  | 09:00 - 10:00 AM      | BCS703                            | 
+|      | 10:00 - 11:00 AM      | BCS702                            | 
+|      | 11:15 AM - 12:15 PM   | BCS714A / D                       | 
+|      | 12:15 - 01:15 PM      | BEE755B                           | 
+| FRI  | 09:00 - 12:15 PM      | BCS786 - Major Project Phase-II   | 
+| SAT  | 09:00 - 12:15 PM      | BCS786 - Major Project Phase-II   | 
+
+### Course Details
+
+| Course Code | Course Title                       | Faculty Name               |
+|-------------|-------------------------------------|----------------------------|
+| BCS701      | Internet of Things                 | Komala D                  |
+| BCS702      | Parallel Computing                 | Ms. Vedashree             |
+| BCS703      | Cryptography & Network             | Sameena Bano              |
+| BCS714A     | Deep Learning                      | Dr. Mohamed Saquib        |
+| BCS714D     | Big Data Analytics                 | Mr. Shinchana K P / Dr. Usha Kiran / Dr. Asha K H |
+| BEE755B     | Energy Conservation and Audit      | Shubashini                |
+| BCS701 Lab  | Internet of Things Lab             | Komala, Rashmi, Geethanjali |
+| BCS702 Lab  | Parallel Computing Lab             | Vedashree, Asha K H       |

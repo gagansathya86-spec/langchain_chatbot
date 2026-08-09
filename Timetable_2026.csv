@@ -1,0 +1,33 @@
+Section,Class Teacher,Subject,Faculty Name
+A,Mrs Rashmi D,IoT,Mrs Rashmi D
+A,Mrs Rashmi D,Parallel Computing,Mrs. Hemalatha M
+A,Mrs Rashmi D,Cryptography,Mrs shambahi
+A,Mrs Rashmi D,Deep Learning,dr mohamed saquib
+A,Mrs Rashmi D,Big Data Analytics,mr shinchana k p / dr usha kiran / dr asha K H
+A,Mrs Rashmi D,Energy Conservation and Audit,suresh kumar
+A,Mrs Rashmi D,IoT Lab,"rashmi, champa, shambavi"
+A,Mrs Rashmi D,Parallel Computing Lab,"hemalatha, mr sindhu, seebha"
+B,champa CH,IoT,Mrs Ranjeeth
+B,champa CH,Parallel Computing,mr tejas k m
+B,champa CH,Cryptography,champa CH
+B,champa CH,Deep Learning,dr mohamed saquib
+B,champa CH,Big Data Analytics,mr shinchana k p / dr usha kiran / dr asha K H
+B,champa CH,Energy Conservation and Audit,dineesh babu
+B,champa CH,IoT Lab,"ranjeeth, shambavi, geethanjali"
+B,champa CH,Parallel Computing Lab,"tejas, asha"
+C,geethanjali,IoT,geethanjali
+C,geethanjali,Parallel Computing,ms sheeba
+C,geethanjali,Cryptography,kanakraju
+C,geethanjali,Deep Learning,dr mohamed saquib
+C,geethanjali,Big Data Analytics,mr shinchana k p / dr usha kiran / dr asha K H
+C,geethanjali,Energy Conservation and Audit,mr rafi Ahmed
+C,geethanjali,IoT Lab,"geethanjali, champa, rashmi"
+C,geethanjali,Parallel Computing Lab,"sheeba, hemalatha, sindhu"
+D,komala d,IoT,komala d
+D,komala d,Parallel Computing,ms vedashree
+D,komala d,Cryptography,sameena bano
+D,komala d,Deep Learning,dr mohamed saquib
+D,komala d,Big Data Analytics,mr shinchana k p / dr usha kiran / dr asha K H
+D,komala d,Energy Conservation and Audit,shubashini
+D,komala d,IoT Lab,"komala, rashmi, geethanjali"
+D,komala d,Parallel Computing Lab,"vedashree, asha k h"

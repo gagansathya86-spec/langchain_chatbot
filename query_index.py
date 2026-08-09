@@ -64,7 +64,7 @@ def main():
         print("\nSearching...")
         try:
             # Perform similarity search
-            docs = vectorstore.similarity_search(query, k=3)
+            docs = vectorstore.similarity_search(query, k=20)
             
             if not docs:
                 print("No relevant documents found.")

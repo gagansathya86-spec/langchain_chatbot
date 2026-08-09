@@ -41,7 +41,7 @@ async def chat_endpoint(request: ChatRequest):
     
     def _process_chat():
         # Retrieve context from the LangChain FAISS index
-        context_chunks = search_query(query, rag_state["vectorstore"], top_k=3)
+        context_chunks = search_query(query, rag_state["vectorstore"], top_k=20)
         if not context_chunks:
             return "I couldn't find relevant information in the context."
             

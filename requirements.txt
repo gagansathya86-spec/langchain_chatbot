@@ -10,3 +10,7 @@ faiss-cpu
 sentence-transformers
 requests
 pydantic
+pypdf
+langchain-text-splitters
+pdfplumber
+pymupdf

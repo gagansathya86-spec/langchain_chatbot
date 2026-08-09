@@ -43,10 +43,33 @@ def load_rag_assets():
     print("Successfully loaded the LangChain FAISS index!")
     return vectorstore
 
-def search_query(query, vectorstore, top_k=3):
+def search_query(query, vectorstore, top_k=20):
     # Perform similarity search
     docs = vectorstore.similarity_search(query, k=top_k)
-    return [doc.page_content for doc in docs]
+    context = [doc.page_content for doc in docs]
+    
+    # Deterministic fallback for exact USNs or Names from the CSV
+    csv_path = os.path.join(DIRECTORY, "Students_2026_V2.csv")
+    if os.path.exists(csv_path):
+        import csv
+        query_lower = query.lower()
+        terms = [t for t in query_lower.split() if len(t) > 3]
+        
+        exact_matches = []
+        with open(csv_path, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                row_str = " ".join(str(v) for v in row.values()).lower()
+                # Prioritize USN exact match or strong keyword match
+                if any(term in row_str for term in terms):
+                    exact_matches.append(f"USN: {row['USN']}, Name: {row['Name']}, Subject: {row['Subject']}, Faculty: {row['Faculty']}")
+                    
+        # Add up to 100 direct matches to the context to help with counting and exact lookups
+        if exact_matches:
+            context.append("--- DIRECT DATABASE MATCHES ---")
+            context.extend(exact_matches[:100])
+            
+    return context
 
 def ask_openrouter(query, context_chunks):
     if not OPENROUTER_API_KEY:
